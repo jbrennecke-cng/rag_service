@@ -1,0 +1,1 @@
+This is a sample document for my RAG pipeline. It lives in app/data/source_docs.

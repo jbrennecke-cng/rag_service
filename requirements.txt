@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai
+langchain
+llama-index
+chromadb
+sentence-transformers
+python-multipart
+pydantic==2.*
+tenacity
