@@ -1,2 +1,4 @@
 .env
 .env
+# Ignore regenerated vector index files
+storage/index/*.json
